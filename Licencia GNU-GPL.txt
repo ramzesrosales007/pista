@@ -1,15 +1,17 @@
-    Ramzes song es una pista de m˙sica cuyo gÈnero es el deep house, tiene un ritmo muy contagioso e incluye las pistas por separado.
+    Ramzes song es una pista de m√∫sica cuyo g√©nero es el deep house, tiene un ritmo muy contagioso e incluye las pistas por separado.
     Copyright (C) 2017 Ramzes Rosales
 
     Este programa es software libre: puede redistribuirlo y / o modificar
-    bajo los tÈrminos de la Licencia P˙blica General de GNU publicada por
-    la Free Software Foundation, ya sea la versiÛn 3 de la Licencia, o
-    (a su elecciÛn) cualquier versiÛn posterior.
+    bajo los t√©rminos de la Licencia P√∫blica General de GNU publicada por
+    la Free Software Foundation, ya sea la versi√≥n 3 de la Licencia, o
+    (a su elecci√≥n) cualquier versi√≥n posterior.
 
-    Este programa se distribuye con la esperanza de que sea ˙til,
-    pero SIN NINGUNA GARANTÕA; sin siquiera la garantÌa implÌcita de
-    COMERCIABILIDAD o IDONEIDAD PARA UN PROP”SITO PARTICULAR. Ver el
-    Licencia p˙blica general de GNU para m·s detalles.
+    Este programa se distribuye con la esperanza de que sea √∫til,
+    pero SIN NINGUNA GARANT√çA; sin siquiera la garant√≠a impl√≠cita de
+    COMERCIABILIDAD o IDONEIDAD PARA UN PROP√ìSITO PARTICULAR. Ver el
+    Licencia p√∫blica general de GNU para m√°s detalles.
 
-    DeberÌas haber recibido una copia de la Licencia P˙blica General de GNU
+    Deber√≠as haber recibido una copia de la Licencia P√∫blica General de GNU
     junto con este programa. De lo contrario, consulte <https://www.gnu.org/licenses/>.
+    
+    Les dejo mi correo: ramzesrosales09@gmail.com
